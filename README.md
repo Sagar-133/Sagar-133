@@ -1,5 +1,19 @@
 ## Hi there 👋
+# Hi 👋, I'm Himasagar
 
+🎓 Final Year Computer Science Engineering Student
+
+## 🚀 About Me
+- 🌱 Currently learning Java, AWS and Salesforce
+- 💻 Interested in Cloud Computing and Software Development
+- 🔭 Working on academic projects
+
+## 🛠️ Skills
+- Java
+- SQL
+- AWS
+- Salesforce
+- Git & GitHub
 <!--
 **Sagar-133/Sagar-133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
